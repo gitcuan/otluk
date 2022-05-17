@@ -1,0 +1,10 @@
+google-chrome --profile-directory="Default" --new-window
+google-chrome --profile-directory="Profile 1" --new-window
+google-chrome --profile-directory="Profile 2" --new-window
+google-chrome --profile-directory="Profile 3" --new-window
+google-chrome --profile-directory="Profile 4" --new-window
+google-chrome --profile-directory="Profile 5" --new-window
+google-chrome --profile-directory="Profile 6" --new-window
+google-chrome --profile-directory="Profile 7" --new-window
+google-chrome --profile-directory="Profile 8" --new-window
+google-chrome --profile-directory="Profile 9" --new-window
